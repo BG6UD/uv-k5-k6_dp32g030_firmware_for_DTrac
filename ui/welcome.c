@@ -130,7 +130,7 @@ void UI_DisplayWelcome(void)
             gFrameBuffer[4][i] ^= 0xFF;
         }
 
-        UI_PrintStringSmallNormal("for DTrac v1.0.1", 0, 127, 6);
+        UI_PrintStringSmallNormal("for DTrac v1.0", 0, 127, 6);
 
         sprintf(WelcomeString3, "%s Edition", Edition);
         // UI_PrintStringSmallNormal(WelcomeString3, 0, 127, 6);
