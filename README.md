@@ -11,7 +11,7 @@
 
 - DTrac APP 下载地址： https://www.dtrac.cn/lib/exe/fetch.php?media=dtrac.apk
 
-# 视频演示： https://v.douyin.com/rpza7seZ6w8/
+# 视频演示： https://v.douyin.com/HZP32rpPb0Q/ 
 
 # Stats
 
