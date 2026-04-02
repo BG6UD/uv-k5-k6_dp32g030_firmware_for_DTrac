@@ -1,3 +1,18 @@
+# 实现功能
+- 仅需使用DTrac APP连接对讲机，实现业余卫星通联自动化操作；
+- 自动获取位置；
+- 自动更新星历；
+- 成熟算法预测；
+- 实时同步卫星多普勒频率；
+- 实时同步通联模式参数；
+- 实时同步发射亚音参数；
+- 卫星入境时自动开启监听，离境后自动关闭监听；
+注：由于泉盛UV-K5/K6/K1硬件限制，除FM外的模式仅对接收信道有效。
+
+- DTrac APP 下载地址： https://www.dtrac.cn/lib/exe/fetch.php?media=dtrac.apk
+
+# 视频演示： https://v.douyin.com/rpza7seZ6w8/
+
 # Stats
 
 ![Alt](https://repobeats.axiom.co/api/embed/947813147857755cef60a960d13734044b3b2c22.svg "Repobeats analytics image")
