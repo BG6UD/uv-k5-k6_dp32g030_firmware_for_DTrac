@@ -11,6 +11,12 @@
 
 - DTrac APP 下载地址： https://www.dtrac.cn/lib/exe/fetch.php?media=dtrac.apk
 
+# 系统架构
+
+<div align="left">
+  <img src="https://dtrac.cn/lib/exe/fetch.php?media=topologymap.png" width="60%">
+</div>
+
 # 视频演示： https://v.douyin.com/HZP32rpPb0Q/ 
 
 # Stats
