@@ -2260,4 +2260,3 @@ Skip:
 
     gUpdateDisplay = true;
 }
-

@@ -23,6 +23,12 @@
 
 https://v.douyin.com/HZP32rpPb0Q/ 
 
+# for DTrac 修改文件
+- compile-with-docker.sh
+- App/app/uart.c
+- App/ui/welcome.c
+- Makedile
+
 # Stats
 
 ![Alt](https://repobeats.axiom.co/api/embed/947813147857755cef60a960d13734044b3b2c22.svg "Repobeats analytics image")
